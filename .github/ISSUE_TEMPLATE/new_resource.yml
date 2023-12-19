@@ -26,7 +26,7 @@ body:
   - type: checkboxes
     id: cat-preferences
     attributes:
-      label: Is the document filename correctly formatted?
+      label: Is the document correctly named and formatted?
       description: Ensure each of the following requirements are met for your file.
       options:
         - label: Did you start the filename with `Cal-ITP`?
